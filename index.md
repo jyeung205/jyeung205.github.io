@@ -15,7 +15,7 @@ Quantitative trading project implementing strategies mentioned in the book "Algo
 * Pandas
 * Backtrader
 * Quantstats
-* SQLite
+* Sqlite
 ---
 
 ### Step 1: Cointegration Test
