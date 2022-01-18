@@ -64,9 +64,9 @@ be the S&P 500 index fund SPY.
 * Max Drawdown: -4.48% (compared to 19.35%)
 * Beta: -0.02.
 
-![img_2.png](img_2.png)  |  ![img_3.png](img_3.png)
-:-------------------------:|:-------------------------:
-![img_4.png](img_4.png)|
+![img_2.png](img_2.png)  
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
 
 
 
