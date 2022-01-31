@@ -16,12 +16,13 @@ Quantitative trading project implementing strategies mentioned in the book "Algo
 * Backtrader
 * Quantstats
 * Sqlite
+
 ---
 
 ### Step 1: Cointegration Test
 First, the data was split into training and testing: 
 * Training period: 2014-2017
-* Testing period: 2018-2020
+* Testing period: 2018-2019
 
 I used the Engle-Granger test to find which stock pairs in the S&P 500 index are cointegrated. 
 The following heatmap shows the cointegrated stock pairs and the correlations between the stocks.
